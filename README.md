@@ -13,3 +13,7 @@
 3. VS Code
 
 ![VS Code Installation](images/vscode-installation.png)
+
+4. Hypothesis Username: zilongf2
+
+5. Al Tool/Workflow: Copilot or ChatGPT 
